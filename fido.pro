@@ -10,8 +10,6 @@ SOURCES = \
     FidoPlugin.cpp \
     helpers.cpp
 
-DEFINES += ZR_TESTNET
-
 HEADERS = \
     p3Fido.h \
     FidoPlugin.h \
